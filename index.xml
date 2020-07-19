@@ -13,30 +13,39 @@
     
     <item>
       <title>Electricity prediction- Time Series Forecasting Project (click here to explore)</title>
-      <link>https://ay-slim.github.io/Portfolio-Website/projects/chapter-6/</link>
+      <link>https://ay-slim.github.io/Portfolio-Website/projects/electricity_consumption/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ay-slim.github.io/Portfolio-Website/projects/chapter-6/</guid>
+      <guid>https://ay-slim.github.io/Portfolio-Website/projects/electricity_consumption/</guid>
       <description>Electricity is a big deal; the life blood of the global economy without which not even the internet can work. This is why I chose to work on an electricity consumption dataset using time series analysis for my final capstone project at Stutern. The data was sourced from the London Smart meters Kaggle dataset and the plan is to eventually extend this application to the Nigerian electricity industry.
-Tasks: Time series analysis, Forecasting with SARIMA, FB Prophet and LSTM.</description>
+For this task, I engineered the location clusters and acorn classification features as exogenous variables for the LSTM and this gave a slightly lower error than another application where weather features were engineered as exogenous variables instead.</description>
+    </item>
+    
+    <item>
+      <title>Exploring prospective donor data and making predictions for a charity (click here to explore)</title>
+      <link>https://ay-slim.github.io/Portfolio-Website/projects/donor_challenge/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ay-slim.github.io/Portfolio-Website/projects/donor_challenge/</guid>
+      <description>With a dataset containing people contacted in the past and information about whether or not they donated, a charity organization seeks to identify the most likely donors amongst fresh set of data so as to minimize cost and maximize effect. This was an interesting project to work on as the data was a bit messy and heavily skewed requiring data cleaning and a log transformation on some numerical feature variables. Undersampling was also carried out to balance the dataset as a disproportionately large number in the training set did not give.</description>
     </item>
     
     <item>
       <title>Loan Prediction (click here to explore)</title>
-      <link>https://ay-slim.github.io/Portfolio-Website/projects/chapter-4/</link>
+      <link>https://ay-slim.github.io/Portfolio-Website/projects/loan_prediction/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ay-slim.github.io/Portfolio-Website/projects/chapter-4/</guid>
+      <guid>https://ay-slim.github.io/Portfolio-Website/projects/loan_prediction/</guid>
       <description>This project involved building predictive models to classify the performance of loans given out by a commercial bank. The data is real world data from a financial institution in Nigeria. In addition to making predictions, we also involved a loan classification framework that can allow users to quickly estimate a given customer&amp;rsquo;s eligibility at a quick glance.
   Link to Github repo: https://github.com/Ay-slim/Data-Science-Portfolio--Ayooluwa/tree/master/Capstone%20Group%20Project-%20Loan%20Prediction</description>
     </item>
     
     <item>
       <title>Beginner Tasks (click here to explore)</title>
-      <link>https://ay-slim.github.io/Portfolio-Website/projects/project_2/</link>
+      <link>https://ay-slim.github.io/Portfolio-Website/projects/beginner_tasks/</link>
       <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ay-slim.github.io/Portfolio-Website/projects/project_2/</guid>
+      <guid>https://ay-slim.github.io/Portfolio-Website/projects/beginner_tasks/</guid>
       <description>This is a collection of various tasks from basic programming to implementing machine learning algorithms. Most of these were submitted as practice laboratory assignments and they include introductory datasets in Machine Learning such as MTCars and others.
   Link to Github repo: https://github.com/Ay-slim/Data-Science-Portfolio--Ayooluwa/tree/master/Practice_Lab_Submissions</description>
     </item>

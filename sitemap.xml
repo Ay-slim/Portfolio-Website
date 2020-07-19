@@ -3,7 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ay-slim.github.io/Portfolio-Website/projects/chapter-6/</loc>
+    <loc>https://ay-slim.github.io/Portfolio-Website/projects/electricity_consumption/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ay-slim.github.io/Portfolio-Website/projects/donor_challenge/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,14 +31,14 @@
   </url>
   
   <url>
-    <loc>https://ay-slim.github.io/Portfolio-Website/projects/chapter-4/</loc>
+    <loc>https://ay-slim.github.io/Portfolio-Website/projects/loan_prediction/</loc>
     <lastmod>2020-02-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ay-slim.github.io/Portfolio-Website/projects/project_2/</loc>
+    <loc>https://ay-slim.github.io/Portfolio-Website/projects/beginner_tasks/</loc>
     <lastmod>2019-11-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
